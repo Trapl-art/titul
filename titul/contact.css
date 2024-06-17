@@ -1,0 +1,53 @@
+.contacts {
+    position: absolute;
+    z-index: 1;
+    top: 108px;
+    left: 54px;
+    padding: 29px 31px 0 31px;
+    width: 316px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 2px 10px rgba(38,89,171,.18);
+    -moz-box-shadow: 0 2px 10px rgba(38, 89, 171, .18);
+    box-shadow: 0 2px 10px rgba(38,89,171,.18);
+    border: solid 1px #eaeaea;
+    overflow: hidden;
+}
+
+.contacts .title {
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-bottom: 17px;
+}
+.contacts .text {
+    font-size: 18px;
+}
+
+.contacts .phone {
+    font-size: 34px;
+    line-height: 43px;
+}
+.contacts .time {
+    font-size: 12px;
+    margin-top: -3px;
+}
+.contacts .phone2 {
+    font-size: 24px;
+    margin-top: 14px;
+    line-height: 22px;
+}
+.contacts .email {
+    display: inline-block;
+    font-size: 20px;
+    color: #262626;
+    margin-top: 21px;
+}
+.contacts .adress {
+    position: relative;
+    padding: 20px 52px;
+    background: #f8fbfd;
+    font-size: 16px;
+    margin-top: 19px;
+    width: 100%;
+    left: -31px;
+    line-height: 22px;
+}
